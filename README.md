@@ -2,10 +2,35 @@
 
 ###
 
-<img align="left" height="700" src="https://cdn.discordapp.com/attachments/914572071114264659/1148967919712215120/Imagem_do_WhatsApp_de_2023-09-06_as_10.06.01.jpg"  />
+<h2 align="left">Description</h2>
 
 ###
 
-<img align="right" height="700" src="https://cdn.discordapp.com/attachments/914572071114264659/1148967961072238642/Imagem_do_WhatsApp_de_2023-09-06_as_10.05.55.jpg"  />
+<p align="left">This repository contains the source code of a Kotlin application with Jetpack Compose.</p>
 
 ###
+
+<div align="center">
+  <img  src="https://github.com/DevAnaBeatriz/PRJ_JetpackComposeState/blob/main/app_jetpackcompose.gif"  />
+</div>
+
+
+###
+
+<h2 align="left">Functionalities</h2>
+
+###
+
+<!-- <p align="left">‣Home screen with buttons to access other sections<br>‣Dark mode activatable by a switch that alternates the theme between light and dark</p> -->
+
+###
+
+<h2 align="left">How to Clone the Repository</h2>
+
+###
+
+<p align="left">To clone this repository and get a local copy of the source code, follow the steps below:<br><br>▸ Open the terminal or command line;<br>▸ Navigate to the directory where you want to clone the repository;<br>▸ Run the following command: "git clone https://github.com/DevAnaBeatriz/PRJ_JetpackComposeState.git";<br>▸ Wait until the cloning process is complete; and<br>▸ After completing these steps, you will have a local copy of the repository in your development environment.</p>
+
+###
+
+
