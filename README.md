@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">This repository contains the source code of a Kotlin application with Jetpack Compose.</p>
+<p align="left">This repository contains the source code of a Kotlin application with Jetpack Compose that changes the state of the variable depending on what was typed from the TextField.
+</p>
 
 ###
 
@@ -18,6 +19,8 @@
 ###
 
 <h2 align="left">Functionalities</h2>
+
+
 
 ###
 
